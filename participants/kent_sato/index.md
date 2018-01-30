@@ -1,9 +1,9 @@
 
-# My page
+# KENT SATO'S PAGE
 
 
-- ngh
-- huh  
+- how to make  
+- lists  
 
 _italic_  
 ***bold***  
