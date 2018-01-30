@@ -16,11 +16,11 @@ _Italic_
 
 Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf 
 
-<pre>
+<pre><p>
 ___ _   _  ___  _____ 
 | ___ | | | |/ _ \|  ___|
 | |_/ | |_| / /_\ |___ \ 
 | ___ |  _  |  _  |   \ \
 | |_/ | | | | | | /\__/ /
 \____/\_| |_\_| |_\____/                          
-</pre>
+</p></pre>
