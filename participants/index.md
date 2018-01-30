@@ -17,7 +17,7 @@ layout: default
 #### Students
 - Jun Nishimura
 - Hiroki Kaimoto
-- [羽根和秀](Kazyhide_Hane)
+- [羽根和秀](Kazuhide_Hane/)
 - 
 - [Johan R](johan/)
 - [Keisuke Yamada](keisuke/)
