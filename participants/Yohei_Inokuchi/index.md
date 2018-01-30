@@ -12,3 +12,5 @@ layout: default
 
 ##### about Markdown https://github.com/BioClub/Practice-Repository/blob/master/Reference.md
 ##### about MyPage http://bha5.bioclub.org/participants/Yohei_Inokuchi/
+
+Was added like this `![Sample text](https://sotakan.com/static/test.jpg)`
