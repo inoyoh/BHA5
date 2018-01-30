@@ -7,7 +7,7 @@ layout: default
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
-- [MyPage](http://bha5.bioclub.org/participants/Yohei_Inokuchi/)
+- [MyPage](http://bha5.bioclub.org/participants/yohei/)
 
 ## Memo
 - ああああ
