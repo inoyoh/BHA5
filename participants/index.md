@@ -22,4 +22,4 @@ layout: default
 - [Johan R](johan/)
 - 山田 啓介
 - Kent Sato
-- Youngah seong
+- [Youngah seong](youngah/)
