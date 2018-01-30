@@ -3,7 +3,7 @@ layout: default
 ---
 
 # _Yohei Inokuchi_
-<img style="width : 10px; height : 10px;" src="image/profile.png"></img>
+<img style="width : 30px; height : 30px;" src="image/profile.png"><p>_designer_</p>
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
