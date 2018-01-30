@@ -19,7 +19,7 @@ layout: default
 - Hiroki Kaimoto
 - 羽根和秀
 - 
-- [Johan Rooms](johan/)
+- [Johan R](johan/)
 - 山田 啓介
 - Kent Sato
 - Youngah seong
