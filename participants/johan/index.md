@@ -15,13 +15,3 @@ _Italic_
 - Another list item
 
 Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf Some text n sff fsk fhsf 
-
-
-
-___ _   _  ___  _____ 
-| ___ | | | |/ _ \|  ___|
-| |_/ | |_| / /_\ |___ \ 
-| ___ |  _  |  _  |   \ \
-| |_/ | | | | | | /\__/ /
-\____/\_| |_\_| |_\____/                          
-
