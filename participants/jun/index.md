@@ -2,4 +2,4 @@
 
 _This is JUN_
 
-![picture](IMG_0005.JPG)
+![picture](/image/IMG_0005.JPG)
