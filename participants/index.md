@@ -15,7 +15,7 @@ layout: default
 - Hiroo Komine
 
 #### Students
-- Jun Nishimura
+- [Jun Nishimura](jun/)
 - Hiroki Kaimoto
 - [Kazuhide Hane](Kazuhide_Hane/)
 - 
