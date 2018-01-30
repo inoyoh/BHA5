@@ -20,7 +20,6 @@ layout: default
 - 羽根和秀
 - 
 - [Johan R](johan/)
-- 山田 啓介
+- [Keisuke Yamada](keisuke/)
 - Kent Sato
 - [Youngah seong](youngah/)
-- [Yohei Inokuchi](https://github.com/BioClub/BHA5/tree/master/participants/Yohei_Inokuchi)
