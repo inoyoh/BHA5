@@ -21,5 +21,5 @@ layout: default
 - 
 - [Johan R](johan/)
 - [Keisuke Yamada](keisuke/)
-- [Kent Sato](/kent_sato)
+- [Kent Sato](kent_sato/)
 - [Youngah seong](youngah/)
