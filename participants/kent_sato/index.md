@@ -1,7 +1,9 @@
 
 # hello
+
 * list
- * list1-1
+
 _italic_
-***bold***
+___bold___
+
 ![Test Image](/participants/kent_sato/test.jpg)
