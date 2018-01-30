@@ -10,4 +10,5 @@ layout: default
 
 ![Test Image](image/sample.png)
 
-### about Markdown https://github.com/BioClub/Practice-Repository/blob/master/Reference.md
+##### about Markdown https://github.com/BioClub/Practice-Repository/blob/master/Reference.md
+##### about MyPage http://bha5.bioclub.org/participants/Yohei_Inokuchi/
