@@ -1,9 +1,10 @@
 
 # hello
 
-* list
+
+- ngh
+- huh
 
 _italic_
-___bold___
-
-![Test Image](/participants/kent_sato/test.jpg)
+***bold***
+![Test Image](https://sotakan.com/static/test.jpg)
