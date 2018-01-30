@@ -3,6 +3,7 @@ layout: default
 ---
 
 # Keisuke Yamada
+## Main
 
 _something_
 
@@ -13,8 +14,8 @@ _something_
 
 ![Test Image](images/mogu2.png)
 
-## table
+## Table
 
-test1|test2|test3|
----|---|---|
-aaa|bbb|ccc|
+|test1|test2|test3|
+|---|---|---|
+|aaa|bbb|ccc|
