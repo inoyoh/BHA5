@@ -20,6 +20,6 @@ layout: default
 - 羽根和秀
 - 
 - [Johan R](johan/)
-- 山田 啓介
+- [Keisuke Yamada](keisuke/)
 - Kent Sato
-- [Youngah seong](youngah/)
+- Youngah seong
