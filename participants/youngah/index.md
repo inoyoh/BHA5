@@ -9,5 +9,5 @@ possibility of change
 
 unexpected and elegant solutions
 
-![Test Image](/participants/youngah/image/_tt0_2_s.jpg)
+![Test Image](image/_tt0_2_s.jpg)
 
