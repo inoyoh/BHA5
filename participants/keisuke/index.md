@@ -13,3 +13,8 @@ _something_
 
 ![Test Image](images/mogu2.png)
 
+## table
+
+test1|test2|test3|
+---|---|---|
+aaa|bbb|ccc|
