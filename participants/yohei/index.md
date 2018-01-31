@@ -1,7 +1,8 @@
-<link href="/css/inoyoh.css" rel="stylesheet"></link>
 ---
 layout: default
 ---
+
+<link href="/css/inoyoh.css" rel="stylesheet"></link>
 
 # _Yohei Inokuchi_
 <img style="width : 300px; height : 300px;" src="image/profile.png">
