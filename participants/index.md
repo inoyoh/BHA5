@@ -8,12 +8,6 @@ layout: default
 - [Georg Tremmel](georg/)
 - Yumi Nishihara
 
-
-####  Lecturers
-- Sota Kaneko
-- Kosuke Kantano
-- Hiroo Komine
-
 #### Students
 - [Jun Nishimura](jun/)
 - Hiroki Kaimoto
@@ -23,3 +17,9 @@ layout: default
 - [Keisuke Yamada](keisuke/)
 - [Kent Sato](kent_sato/)
 - [Youngah seong](youngah/)
+
+####  Special Guests
+- Sota Kaneko (Intern)
+- Kosuke Kantano (Wild Scientist)
+- Hiroo Komine (BHA4 Alumni)
+- Yuki Tanaka (Shojin Meat)
