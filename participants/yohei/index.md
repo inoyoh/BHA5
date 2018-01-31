@@ -2,8 +2,6 @@
 layout: default
 ---
 
-<link href="/css/inoyoh.css" rel="stylesheet"></link>
-
 # _Yohei Inokuchi_
 <img style="width : 300px; height : 300px;" src="image/profile.png">
 motivation : I'm interested in thinking about Future Life changed by bit technology.
