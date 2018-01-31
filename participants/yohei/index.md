@@ -1,3 +1,4 @@
+<link href="/css/inoyoh.css" rel="stylesheet"></link>
 ---
 layout: default
 ---
