@@ -2,17 +2,13 @@
 
   <div class="wrapper">
 
+    <!--
     <h2 class="footer-heading">{{ site.title }}</h2>
-
+    -->
+    
     <div class="footer-col-wrapper">
-      <div class="footer-col  footer-col-1">
-        <ul class="contact-list">
-          <li>{{ site.title }}</li>
-          <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
-        </ul>
-      </div>
 
-      <div class="footer-col  footer-col-2">
+      <div class="footer-col  footer-col-1">
         <ul class="social-media-list">
           {% if site.github_username %}
           <li>
@@ -39,28 +35,28 @@
           {% endif %}
           
           <li>
-              <a href="https://www.facebook.com/groups/biohackacademy/">
+              <a href="{{ site.facebook_group }}">
                   <span class="icon">
-                      <img src="{{ site.baseurl }}/bha4/facebook-30x30.png" />
+                      <img src="/images/logos/FB-f-Logo__blue_1024.png" />
                   </span>
                   
-                  <span class="username">BHA Group</span>
+                  <span class="username">BHA5 Japan Group</span>
               </a>
           </li>
           
           <li>
-              <a href="https://vimeo.com/channels/bha4/">
+              <a href="{{ site.vimeo }}">
                   <span class="icon">
-                      <img src="{{ site.baseurl }}/bha4/vimeo-30x30.png" />
+                      <img src="/images/logos/vimeo_icon_white_on_blue_rounded.png" />
                   </span>
                   
-                  <span class="username">Vimeo channel</span>
+                  <span class="username">BHA5 Lectures</span>
               </a>
           </li>
         </ul>
       </div>
 
-      <div class="footer-col  footer-col-3">
+      <div class="footer-col  footer-col-2">
         <!-- <p class="text">{{ site.description }}</p> /-->
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Waag Society's Biohack Academy Syllabus</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
