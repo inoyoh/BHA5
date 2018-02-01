@@ -7,4 +7,4 @@
 
 _italic_  
 ***bold***  
-![test](/participants/kent_sato/test.jpg)
+![test](/participants/kent_sato/me.jpg)
