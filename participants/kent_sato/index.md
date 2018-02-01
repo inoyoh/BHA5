@@ -2,10 +2,10 @@
 # KENT SATO'S PAGE
 
 
-- how to make  
-- lists  
+- age 18  
+- Undergraduate student
 
-_italic_  
+_Homo sapience_  
   
 ***This is me and my dog***  
 ![test](/participants/kent_sato/me.jpg)
