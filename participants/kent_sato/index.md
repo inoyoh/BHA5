@@ -6,5 +6,6 @@
 - lists  
 
 _italic_  
-***bold***  
+  
+***This is me and my dog***  
 ![test](/participants/kent_sato/me.jpg)
