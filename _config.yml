@@ -5,9 +5,11 @@ title: BHA5 Japan
 email: 
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://bha5.club.org" # the base hostname & protocol for your site
+url: "http://bha5.bioclub.org" # the base hostname & protocol for your site
 twitter_username: ""
 github_username: ""
+vimeo: "https://vimeo.com/channels/biohackacademy5/"
+facebook_group: "https://www.facebook.com/groups/BioHackAcademy.Japan/"
 
 # Plugins
 safe: false
