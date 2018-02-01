@@ -6,3 +6,5 @@ categories: general
 ---
 
 [Image of BioHacking Mindmap]
+
+![Image of BioHacking Mindmap](/images/What_is_BioHacking.jpg)
