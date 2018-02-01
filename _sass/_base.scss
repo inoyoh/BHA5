@@ -190,8 +190,11 @@ pre {
  * Icons
  */
 .icon {
-    width: 20px;
-    height: 20px;
+    > img {
+        width: 16px;
+        height: 16px;
+    }
+
     > svg {
         display: inline-block;
         width: 16px;
