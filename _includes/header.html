@@ -13,14 +13,31 @@
 
 
       <div class="trigger">
+        <!--
         {% for page in site.pages %}
           {% if page.title == "Classes" or page.title == "Participants" or page.title == "Discuss" or page.title == "Organisms" %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
           {% endif %}
         {% endfor %}
-        <a class="page-link" href="http://www.github.com/Bio">Repos</a>
-        <a class="page-link" href="{{ site.facebook_group }}">BHA5 Japan </a>
-        <a class="page-link" href="{{ site.vimeo }}">Lecture Videos</a>
+        -->
+        <a class="page-link" href="/participants/">Participants</a>
+        
+        <a class="page-link" href="http://www.github.com/BioClub">Repos</a>
+        
+        <a href="{{ site.facebook_group }}">
+          <span class="icon">
+            <img src="/images/logos/FB-f-Logo__blue_1024.png" />
+          </span>
+          <span class="username">BHA5 Japan Group</span>
+        </a>
+        
+        <a href="{{ site.vimeo }}">
+          <span class="icon">
+            <img src="/images/logos/vimeo_icon_white_on_blue_rounded.png" />
+          </span>
+          <span class="username">BHA5 Lectures</span>
+        </a>
+        
       </div>
       
     </nav>
