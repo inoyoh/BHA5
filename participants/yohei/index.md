@@ -12,7 +12,10 @@ motivation : I'm interested in thinking about Future Life changed by bit technol
 - [MyPage](https://inoyoh.github.io/BHA5/participants/yohei/)
 
 ## Memo
-### 1週目-Tue (2018/01/30)
+### ■ ビデオ視聴 / 1週目-Fri (2018/02/02)
+
+
+### ■ あああああ / 1週目-Tue (2018/01/30)
 - バイオハックとは何か
 
 
