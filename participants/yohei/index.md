@@ -15,7 +15,7 @@ motivation : I'm interested in thinking about Future Life changed by bit technol
 ### ■ ビデオ視聴 / 1週目-Fri (2018/02/02)
 - Video track plant growth
 - [DIY Bioprinting, JuicyPrint - London Biohack Space](http://makezine.jp/blog/2016/09/prototyping-with-living-cells.html)
-- [Bio Growing](http://jp.techcrunch.com/2014/08/12/20140811glowing-plant-is-one-of-y-combinators-very-first-biotech-startups/]
+- [Bio Growing](http://jp.techcrunch.com/2014/08/12/20140811glowing-plant-is-one-of-y-combinators-very-first-biotech-startups/)
 - タコのソフトロボット
 
 ### ■ あああああ / 1週目-Tue (2018/01/30)
