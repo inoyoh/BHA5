@@ -10,7 +10,7 @@ tags:
 
 
 
-# What is biohacking
+# What is biohacking?
 
 1,Nutrigenomics, using nutrition to hack (take control of) human biology
 
@@ -28,7 +28,7 @@ gene-drive
 
 gene-cloneing
 
-# BHA_SterileHood
+# DIY_SterileHood
 
 ![bio](../participants/kazuhide/sterile.png)
 
