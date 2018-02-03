@@ -12,6 +12,8 @@ tags:
 
 # What is biohacking?
 
+from wikipedia
+
 1,Nutrigenomics, using nutrition to hack (take control of) human biology
 
 2,Do-it-yourself biology, biotechnological social movement in which individuals and small organizations study biology using the same methods as traditional research institutions
@@ -27,6 +29,8 @@ gene-editing
 gene-drive
 
 gene-cloneing
+
+etc
 
 # DIY_SterileHood
 
