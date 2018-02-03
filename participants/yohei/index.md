@@ -9,6 +9,7 @@ motivation : I'm interested in thinking about Future Life changed by bio technol
 # To clear Thinking
 - keyword : 可視化 / bio glowing / bio printing(soft robotics)
 - person : オロン・カッツ
+- favorite project : Biopresence / 
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
