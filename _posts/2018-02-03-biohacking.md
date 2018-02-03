@@ -18,7 +18,7 @@ tags:
 
 ![bio](/images/body-mods.jpg)
 
-# We must use these technology correctly
+# We must use these technologies correctly
 
 gene-editing
 
