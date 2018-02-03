@@ -30,7 +30,7 @@ Motivation : I'm interested in new physical experience using bio technology.
 <img src="image/clean_bench.JPG" width="500px">
 - test tube stand
 <br>
-<img src="image/clean_bench.JPG" width="500px">
+<img src="image/test_tube_stand.JPG" width="500px">
 
 
 ### ■ Video / week1-Fri (2018/02/02)
