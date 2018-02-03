@@ -14,10 +14,10 @@ tags:
   - Aware of sustainable society
   - Realize the shape of coexistence of plants and humans
 - history
-  - 
+  - history continues from 1986...
 
 
 ![Image of glowing_plants](/images/glowing_plants.jpeg)
-![Image of glowing_plants](/images/glowing_plants_2.jpeg)
-![Image of glowing_plants](/images/glowing_plants_3.jpeg)
-![Image of glowing_plants](/images/glowing_plants_4.jpeg)
+![Image of glowing_plants](/images/glowing_plants_2.jpg)
+![Image of glowing_plants](/images/glowing_plants_3.jpg)
+![Image of glowing_plants](/images/glowing_plants_4.jpg)
