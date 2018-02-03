@@ -31,8 +31,3 @@ gene-drive
 gene-cloneing
 
 etc
-
-# DIY_SterileHood
-
-![bio](../participants/kazuhide/sterile.png)
-
