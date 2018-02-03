@@ -18,6 +18,5 @@ tags:
 
 <img src="/images/glowing_plants.jpeg" width="500px"></img>
 <img src="/images/glowing_plants_2.jpg" width="500px"></img>
-![Image of glowing_plants](/images/glowing_plants_2.jpg)
-![Image of glowing_plants](/images/glowing_plants_3.jpg)
+<img src="/images/glowing_plants_3.jpg" width="500px"></img>
 ![Image of glowing_plants](/images/glowing_plants_4.jpg)
