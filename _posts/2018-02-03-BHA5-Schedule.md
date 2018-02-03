@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Find a Lecture Slide"
+title:  "BHA5 Schedule"
 post_author: johan
 date:   2018-02-03 15:00:34
 categories: general
-tags: 
+tags: schedule homework
 ---
 
 [Image of BHA5 Schedule]
