@@ -7,6 +7,6 @@ categories: general
 tags: 
 ---
 
-[Image of BioHacking Mindmap]
+[biohacking]
 
-![Image of BioHacking Mindmap](../participants/kazuhide/biohacking.jpg)
+![biohacking](../participants/kazuhide/biohacking.jpg)
