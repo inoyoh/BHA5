@@ -28,4 +28,7 @@ gene-drive
 
 gene-cloneing
 
-# We must use this technology correcetly
+# BHA_SterileHood
+
+![bio](../participants/kazuhide/sterile.png)
+
