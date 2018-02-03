@@ -16,7 +16,8 @@ motivation : I'm interested in thinking about Future Life changed by bio technol
 - [MyPage](http://bha5.bioclub.org/participants/yohei/) / [MyPage](https://inoyoh.github.io/BHA5/participants/yohei/)
 - [open source project](https://www.hackteria.org/wiki/Collection_of_DIY_Biology,_Open_Source_Art_Projects)
 - [講義の全体像（作る機器やpdfなど）](http://biohackacademy.github.io/bha5/classes/)
-<br><br>
+- [昨年度の作品](https://github.com/BioClub/lab/wiki/bha4)
+<br><br><br>
 
 ## Memo
 ### ■ Work / week1-Sat (2018/02/03)
