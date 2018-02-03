@@ -9,4 +9,4 @@ tags:
 
 [Image of BioHacking Mindmap]
 
-![Image of BioHacking Mindmap](/images/What_is_BioHacking.jpg)
+![Image of BioHacking Mindmap](../participants/kazuhide/biohacking.jpg)
