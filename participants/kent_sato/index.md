@@ -1,5 +1,5 @@
 
-# KENT SATO[https://www.facebook.com/bbbbbbbb___d] 'S PAGE
+# KENT SATO'S PAGE
 
 
 - age 18  
