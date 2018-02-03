@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign author = site.authors[page.author] %}
+{% assign author = site.authors[page.post_author] %}
 
 <div class="post">
 
@@ -10,6 +10,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
       {% if page.author %} • {{ page.author.display_name }}{% endif %}
       {% if page.meta %} • {{ page.meta }}{% endif %}
+      {% if page.tags %} • {{ page.tags }}{% endif %}
     </p>
   </header>
 
