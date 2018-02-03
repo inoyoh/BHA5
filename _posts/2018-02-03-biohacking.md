@@ -16,7 +16,7 @@ tags:
 
 3,Grinder (biohacking), people who try to improve their own bodies with do-it-yourself cybernetic devices
 
-![bio](images/body-mods.jpg)
+![bio](/images/body-mods.jpg)
 
 # Biohacking use a lot of technology
 
