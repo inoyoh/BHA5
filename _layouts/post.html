@@ -10,6 +10,7 @@ layout: default
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
       {% if page.post_author %} • {{ author.display_name }}{% endif %}
       {% if page.tags %}
+        Tags: 
         {% for tag in page.tags %}
           <span class='tag'>{{ tag }}</span>
         {% endfor %}
