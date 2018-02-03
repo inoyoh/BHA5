@@ -7,6 +7,6 @@ categories: general
 tags: 
 ---
 
-[biohacking]
+[biohacking is not like this picture!]
 
 ![biohacking](../participants/kazuhide/biohacking.jpg)
