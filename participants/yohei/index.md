@@ -6,6 +6,9 @@ layout: default
 <img style="width : 300px; height : 300px;" src="image/profile.png">
 motivation : I'm interested in thinking about Future Life changed by bit technology.
 
+# To Clear Thinking
+
+
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
