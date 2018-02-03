@@ -7,5 +7,10 @@ categories: general
 tags: 
 ---
 
+# memo
+- bio is...
+  - mysterious
+  - move
+  - 
 
 ![Image of BioHacking Mindmap](/images/What_is_BioHacking.jpg)
