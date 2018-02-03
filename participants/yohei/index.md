@@ -6,7 +6,9 @@ layout: default
 <img style="width : 300px; height : 300px;" src="image/profile.png">
 motivation : I'm interested in thinking about Future Life changed by bit technology.
 
-# 
+# To clear Thinking
+- keyword : 
+- person : 
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
@@ -15,7 +17,7 @@ motivation : I'm interested in thinking about Future Life changed by bit technol
 
 ## Memo
 ### ■ Work / week1-Sat (2018/02/03)
-・あああ
+- biobeats
 
 ### ■ Video / week1-Fri (2018/02/02)
 - Video track plant growth
