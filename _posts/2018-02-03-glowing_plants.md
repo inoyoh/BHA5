@@ -15,6 +15,7 @@ tags:
   - Realize the shape of coexistence of plants and humans
 - history
   - history continues from 1986...
+- reference : [glowing plants(kickstarter)](https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit)
 
 <img src="/images/glowing_plants.jpg" width="500px">
 <img src="/images/glowing_plants_2.jpg" width="500px">
