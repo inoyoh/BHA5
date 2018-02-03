@@ -7,6 +7,8 @@ categories: general
 tags: 
 ---
 
-[Image of BioHacking Mindmap]
+[Image of BHA5 Schedule]
 
-![Image of BioHacking Mindmap](/images/What_is_BioHacking.jpg)
+![Image of BHA5 Schedule](/images/bha_schedule.png)
+
+Excited to get hands on experience with 2d, 3d, bio, tech, art, science and experiment. 
