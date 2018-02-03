@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Lecture"
+title:  "what is biohacking?"
 post_author: kazuhide
 date:   2018-02-03 12:00:00
 categories: general
