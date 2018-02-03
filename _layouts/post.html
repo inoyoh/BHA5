@@ -12,10 +12,12 @@ layout: default
       Author: {{ author.display_name }}
       {% endif %}
       {% if page.tags %}
-        Tags: 
+        <div class='tags'>
+          Tags: 
         {% for tag in page.tags %}
-          <span class='tag'>{{ tag }}</span>
+          <span>{{ tag }}</span>
         {% endfor %}
+        </div>
       {% endif %}
     </p>
   </header>
