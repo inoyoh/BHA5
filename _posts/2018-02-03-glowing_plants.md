@@ -16,7 +16,7 @@ tags:
 - history
   - history continues from 1986...
 
-<img src="/images/glowing_plants.jpeg" width="500px"></img>
+<img src="/images/glowing_plants.jpg" width="500px"></img>
 <img src="/images/glowing_plants_2.jpg" width="500px"></img>
 <img src="/images/glowing_plants_3.jpg" width="500px"></img>
 <img src="/images/glowing_plants_4.jpg" width="500px"></img>
