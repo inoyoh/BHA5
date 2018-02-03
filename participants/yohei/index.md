@@ -35,6 +35,6 @@ Motivation : I'm interested in new physical experience using bio technology.
 
 ### ■ Work / week1-Tue (2018/01/30)
 - バイオハックとは何か
-
+<img src="image/what_is_bio_hacking.jpg" width="300px">
 
 
