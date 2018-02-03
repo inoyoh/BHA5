@@ -25,7 +25,12 @@ Motivation : I'm interested in new physical experience using bio technology.
 - keyword
   - [biotabeats](http://biotabeats.org/index.html)
   - [ninja PCR](https://blog.adafruit.com/2017/03/23/ninjapcr-open-source-iot-dna-amplifier/)
-  <img src="image/clean_bench.JPG" width="500px">
+- make the clean bench
+<br>
+<img src="image/clean_bench.JPG" width="500px">
+- test tube stand
+<br>
+<img src="image/clean_bench.JPG" width="500px">
 
 
 ### ■ Video / week1-Fri (2018/02/02)
