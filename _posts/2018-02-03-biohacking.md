@@ -20,10 +20,12 @@ tags:
 
 ![bio](../participants/kazuhide/body-mods.jpg)
 
-# biohacking use a lot of technology
+# Biohacking use a lot of technology
 
 gene-editing
 
 gene-drive
 
 gene-cloneing
+
+# We must use this technology correcetly
