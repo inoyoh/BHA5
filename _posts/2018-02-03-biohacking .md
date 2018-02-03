@@ -11,7 +11,7 @@ tags:
 # What is genegun
 - The gene gun is a device used to transfect cells with foreign DNA by bombarding the target cells with DNA-coated microparticles.
 
-![slide](/participants/jun/image/genegun.jpg) 
+![slide](/participants/jun/image/genegun.png) 
 
 
 
