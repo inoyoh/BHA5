@@ -18,7 +18,7 @@ tags:
 
 ![bio](/images/body-mods.jpg)
 
-# Biohacking use a lot of technology
+# We must use technology correctly
 
 gene-editing
 
