@@ -8,11 +8,7 @@ tags:
 ---
 
 
-
-
 # What is biohacking?
-
-from wikipedia
 
 1,Nutrigenomics, using nutrition to hack (take control of) human biology
 
@@ -20,7 +16,7 @@ from wikipedia
 
 3,Grinder (biohacking), people who try to improve their own bodies with do-it-yourself cybernetic devices
 
-![bio](/participants/kazuhide/body-mods.jpg)
+![bio](images/body-mods.jpg)
 
 # Biohacking use a lot of technology
 
