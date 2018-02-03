@@ -4,7 +4,7 @@ layout: default
 
 # _Yohei Inokuchi_
 <img style="width : 300px; height : 300px;" src="image/profile.png">
-motivation : I'm interested in thinking about Future Life changed by bit technology.
+motivation : I'm interested in thinking about Future Life changed by bio technology.
 
 # To clear Thinking
 - keyword : 
