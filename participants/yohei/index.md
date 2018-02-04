@@ -6,7 +6,7 @@ layout: default
 <img style="width : 550px; height : 250px;" src="image/profile_4.png"><br>
 Motivation : I'm interested in new physical experience using bio technology.
 
-# To clear Thinking
+## To clear Thinking
 - keyword : 可視化 / bio glowing / bio printing(soft robotics)
 - person : オロン・カッツ
 - favorite project : Biopresence / 
