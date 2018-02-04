@@ -19,7 +19,7 @@ Motivation : I'm interested in new physical experience using bio technology.
 - [昨年度の作品](https://github.com/BioClub/lab/wiki/bha4)
 <br><br><br>
 
-<hr>
+
 ## Memo
 ### ■ Work / week1-Sat (2018/02/03)
 - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
