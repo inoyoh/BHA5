@@ -3,7 +3,7 @@ layout: default
 ---
 
 # _Yohei Inokuchi_
-<img style="width : 300px; height : 300px;" src="image/profile.png"><br>
+<img style="width : 300px; height : 300px;" src="image/profile_2.png"><br>
 Motivation : I'm interested in new physical experience using bio technology.
 
 # To clear Thinking
