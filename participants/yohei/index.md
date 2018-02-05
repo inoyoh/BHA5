@@ -18,7 +18,7 @@ motivation : I'm interested in thinking about Future Life changed by bio technol
 ## Memo
 ### ■ Work / week1-Sat (2018/02/03)
 - [Video Post](/_post/)
-- biobeats
+- [Biota Beats](http://biotabeats.org/)
 - [ninja PCR](https://blog.adafruit.com/2017/03/23/ninjapcr-open-source-iot-dna-amplifier/)
 
 
@@ -26,7 +26,7 @@ motivation : I'm interested in thinking about Future Life changed by bio technol
 - Video track plant growth
 - [DIY Bioprinting, JuicyPrint - London Biohack Space](http://makezine.jp/blog/2016/09/prototyping-with-living-cells.html)
 - [Bio Growing](http://jp.techcrunch.com/2014/08/12/20140811glowing-plant-is-one-of-y-combinators-very-first-biotech-startups/)
-- タコのソフトロボット
+- タコのソフトロボット ([Octobot](https://nge.jp/2016/09/08/post-134660))
 
 ### ■ Work / week1-Tue (2018/01/30)
 - バイオハックとは何か
