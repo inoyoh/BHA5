@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "BHA5 Schedule"
-post_author: johan
+author: johan
 date:   2018-02-03 10:00:34
 categories: general
 tags: schedule homework
