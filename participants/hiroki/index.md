@@ -1,6 +1,4 @@
----
-layput:default
----
+
 
 #Hiroki Kaimoto 
 
