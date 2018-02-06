@@ -1,9 +1,9 @@
 
 
-#Hiroki Kaimoto 
+# Hiroki Kaimoto 
 
-##Hello
+## Hello
 
--Graduate Student
+- Graduate Student
 
--have tried to be Vegan
+- have tried to be Vegan
