@@ -10,7 +10,7 @@ layout: default
 
 #### Students
 - [Jun Nishimura](jun/)
-- Hiroki Kaimoto
+- [Hiroki Kaimoto](hiroki/)
 - [Kazuhide Hane](kazuhide/)
 - [Yohei Inokuchi](yohei/)
 - [Johan R](johan/)
