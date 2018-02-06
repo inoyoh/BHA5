@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "What is life?"
+title: "Lipid Bilayer Cell"
 date: 2018-2-6-20:00
 author: yuki
 categories: general
