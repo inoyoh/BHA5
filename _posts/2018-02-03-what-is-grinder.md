@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "what is biohacking?"
+title:  "what is grinder?"
 author: kazuhide
 date:   2018-02-03 12:00:00
 categories: general
