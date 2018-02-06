@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "BHA5 Schedule"
+title:  "BHA5 class 2 filaments"
 author: johan
-date:   2018-02-03 10:00:34
+date:   2018-02-06 10:00:34
 categories: general
-tags: schedule homework
+tags: class homework
 ---
 
 [Image of BHA5 class 2 filaments]
