@@ -14,10 +14,11 @@ _Pictures, sketches, design from the week's fab exercise._
 _Pictures, sketches, design from the week's bio exercise._
 
 ### Participant Name
+
 | Week | Review | Fab | Bio | 
-| -----| ------ | --- | --- |
-| 1 | Week2 | | |
-| 2 | Week2 | | |
+| ----- | ----- | ----- | ----- |
+| 1 | Post | Tube Rack | Lab Intro |
+| 2 | Post | Tube Rack | Petri |
 
 
 	
