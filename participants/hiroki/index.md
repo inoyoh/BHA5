@@ -1,3 +1,0 @@
-#Hiroki Kaimoto  
-
-##He
