@@ -9,4 +9,4 @@ tags:
 
 [Image of BioSteel fiber]
 
-![Image of BioSteel fiber](/images/biosteel_fiber.jpg)
+![Image of BioSteel fiber](/images/biosteel_fiber.jpeg)
