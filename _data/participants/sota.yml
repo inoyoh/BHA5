@@ -1,7 +1,10 @@
+# Must be same as participants/username
 username: sota
-display_name: Sota Kaneko
 
-github: sotakan
+# Name that should be displayed
+display_name: "Sota Kaneko"
 
-website: https://sotakan.com
-
+facebook: ""
+twitter: ""
+github: "sotakan"
+website: "https://sotakan.com"
