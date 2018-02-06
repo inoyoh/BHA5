@@ -2,7 +2,7 @@
 layput:default
 ---
 
-#Hiroki Kaimoto
+#Hiroki Kaimoto 
 
 ##Hello
 
