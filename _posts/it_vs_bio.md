@@ -1,0 +1,21 @@
+---
+layout: post
+title: "IT_vs_Bio"
+date: 2018-2-6-18:00:00
+author: kazuhide
+categories: general
+tags: 
+---
+
+![it_bio](/images/it_bio.jpg)
+このようにITとbioを比較できる理由は、おそらくコンピューターの技術が人間の体の作りを真似ているからだと思う。
+
+This is my image
+![genomeimage](/images/genomeimage.jpg)
+
+
+I thought this comparion is intresting,and wanted to add something to this slide.
+仮想化という技術によってコンピューターのサーバーは、物理的には一つのサーバーリソースを、仮想的に何十個、何百個と分けて扱うことができる。
+この技術により、物理的なハードにかかる費用を大幅に抑えることができる。
+これは資源の効率的な利用を意味している。
+仮想化をbiotechnologyに当てはめて考えてみると、何になるだろうか？これから考えたいです。
