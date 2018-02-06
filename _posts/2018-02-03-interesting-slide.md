@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ways of infection"
-post_author: kent
+author: kent
 date:   2018-02-03 12:00:00
 categories: general
 tags: 
