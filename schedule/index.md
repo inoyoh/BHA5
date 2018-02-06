@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Schedule for BHA5 Japan (ongoing)
 ## Lectures by Waag
 [This schedule](https://waag.org/sites/waag/files/public/biohack-academy-5.pdf) is tentative - changes may occur.
