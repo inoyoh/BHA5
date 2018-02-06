@@ -2,7 +2,7 @@
 layout: post
 title: "Github Troubleshooting: Page builds failing"
 author: sota
-date: 2018-02-06:20:30:00
+date: 2018-02-06-20:30:00
 categories: general github
 tags: github troubleshooting
 ---
