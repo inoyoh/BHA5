@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "lecture"
-post_author: jun
+author: jun
 date:   2018-02-03 12:26:00
 categories: general
 tags: 
