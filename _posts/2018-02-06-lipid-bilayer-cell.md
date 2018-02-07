@@ -6,4 +6,6 @@ author: yuki
 categories: general
 tags:
 ---
+![Lipid-Bilayer-Cell](BHA5/images/Lipid-Bilayer-Cell.png)
+
 comments
