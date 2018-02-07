@@ -8,7 +8,7 @@ tags:
 ---
 ![Lipid-Bilayer-Cell](/images/Lipid-Bilayer-Cell.png)
 
-_comments
+#comments
 
 In water, Surfactant molecules autonomously forms into many types of shape like micelle, inverted micelle, lipid bilayer and vesicle.
 Above all, vesicle attract a great deal of attention from scientist because of　similarity to construction of the cell.
