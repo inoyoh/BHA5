@@ -60,8 +60,9 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 
 ### ■ Work / week1-Tue (2018/01/30)
 - バイオハックとは何か
-  - bio : 
-  - hack : 
+  - bio : move, mysterious, experiment, ...
+  - hack : technology, open source, change(create) rules, ...
+  - bio hack : create mysterious things !!
 <br>
 <img src="image/what_is_bio_hacking.jpg" width="500px">
 
