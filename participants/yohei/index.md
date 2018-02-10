@@ -22,6 +22,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 
 ## Memo
 ### ■ Video / week1-Thu (2018/02/08)
+- [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
 - keyword
   - [terike haapoja. “entopy” 2004](http://www.av-arkki.fi/en/works/entropy/)
     - サーモグラフィーで馬が死んで行く様子を可視化した。
