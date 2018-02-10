@@ -8,5 +8,4 @@ tags:
 ---
 
 
-
-<img >
+<img src="/images/entropy.png" width="500px"></img>
