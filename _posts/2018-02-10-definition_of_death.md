@@ -14,8 +14,8 @@ Entropy is a <span style="color : red">visualisation of life’s presence slowly
 A thermo-cam image of the body of a dead horse shows its silhouette slowly fade from the screen as its body loses heat until it vanishes entirely.<br>
 
 ## about death
-Generally, we think death is stopping heat beat.<br>
-but she spreads the meaning that death is vanishing heart of body.<br>
+Generally, we think death is stopping heart beat.<br>
+but she spreads the meaning that death is vanishing heat of body.<br>
 <img src="/images/12death.jpg" width="500px"><br>
 
 
