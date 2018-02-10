@@ -11,19 +11,19 @@ tags:
 <img src="/images/entropy.png" width="500px">
 # [Entropy / terike haapoja / 2004](http://www.av-arkki.fi/en/works/entropy/) 
 Entropy is a <span style="color : red">visualisation of life’s presence slowly leaving the body</span>.<br> 
-A thermo-cam image of the body of a dead horse shows its silhouette slowly fade from the screen as its body loses heat until it vanishes entirely.
+A thermo-cam image of the body of a dead horse shows its silhouette slowly fade from the screen as its body loses heat until it vanishes entirely.<br>
 
 ## about death
-Generally, we think death is stopping heat beat.
-but she spreads the meaning that death is vanishing heat of body.
+Generally, we think death is stopping heat beat.<br>
+but she spreads the meaning that death is vanishing heat of body.<br>
 <img src="/images/12death.jpg" width="500px">
 
 
-I think there is third point of death.
-It is death of cell.
-I'm interested in when cell is dead?, which part of cell live longest?, how cell will die?
-also I'm interested in visualization, death of cell.
-That is really last death.
+I think there is third point of death.<br>
+It is death of cell.<br>
+I'm interested in when cell is dead?, which part of cell live longest?, how cell will die?<br>
+also I'm interested in visualization, death of cell.<br>
+That is really last death.<br>
 
 
 
