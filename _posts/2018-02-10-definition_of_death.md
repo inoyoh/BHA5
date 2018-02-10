@@ -21,7 +21,7 @@ but she spreads the meaning that death is vanishing heat of body.<br>
 
 I think there is third point of death.<br>
 It is "death of cell".<br>
-<img src="/images/third_death.png" width="500px"><br>
+<img src="/images/third_death.png" width="800px"><br>
 I'm interested in when cell will be dead?, which part of cell will live longest?, how cell will die?<br>
 also I'm interested in visualization, death of cell.<br>
 That is <span style="color : red;">really last death</span>.<br>
