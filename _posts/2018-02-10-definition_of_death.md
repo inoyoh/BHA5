@@ -8,7 +8,7 @@ tags:
 ---
 
 
-<img src="/images/entropy.png" width="500px"></img>
+<img src="/images/entropy.png" width="500px">
 # [Entropy / terike haapoja / 2004](http://www.av-arkki.fi/en/works/entropy/) 
 Entropy is a <span style="color : red">visualisation of life’s presence slowly leaving the body</span>.<br> 
 A thermo-cam image of the body of a dead horse shows its silhouette slowly fade from the screen as its body loses heat until it vanishes entirely.
@@ -16,7 +16,7 @@ A thermo-cam image of the body of a dead horse shows its silhouette slowly fade 
 ## about death
 Generally, we think death is stopping heat beat.
 but she spreads the meaning that death is vanishing heat of body.
-
+<img src="/images/12death.jpg" width="500px">
 
 
 I think there is third point of death.
