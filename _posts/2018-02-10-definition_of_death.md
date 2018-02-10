@@ -15,7 +15,7 @@ A thermo-cam image of the body of a dead horse shows its silhouette slowly fade 
 
 ## about death
 Generally, we think death is stopping heat beat.<br>
-but she spreads the meaning that death is vanishing heat of body.<br>
+but she spreads the meaning that death is vanishing heart of body.<br>
 <img src="/images/12death.jpg" width="500px"><br>
 
 
