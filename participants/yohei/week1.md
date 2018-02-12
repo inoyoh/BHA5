@@ -1,4 +1,8 @@
-## memo
+---
+layout: default
+---
+
+## Memo
 ### ■ Work / week1-Sat (2018/02/03)
 - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
 - keyword
