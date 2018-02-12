@@ -8,8 +8,8 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 <br>
 
 ## To clear Thinking
-- keyword : 可視化 / bio glowing / bio printing(soft robotics)
-- person : オロン・カッツ
+- keyword : visualization / bio glowing / bio printing(soft robotics) / ...
+- person : オロン・カッツ / ...
 - favorite project : Biopresence /
 <br>
 
