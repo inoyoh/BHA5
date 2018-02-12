@@ -5,7 +5,7 @@ layout: default
 # _Yohei Inokuchi_
 <img style="width : 550px; height : 250px;" src="image/profile_bio.png"><br>
 Motivation : I'm interested in <span style="color: red;">new physical experience</span> using bio technology.
-<br>
+<br><br>
 
 ## To clear Thinking
 - keyword : visualization / bio glowing / bio printing(soft robotics) / ...
