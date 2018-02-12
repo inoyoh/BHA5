@@ -20,5 +20,5 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 <br><br>
 
 ## Memo
-- [week2](../week2.md)
-- [week1](../week1.md)
+- [week2](../yohei/week2.md)
+- [week1](../yohei/week1.md)
