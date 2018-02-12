@@ -22,7 +22,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 ## Memo
 - [week2](../yohei/week2.html)
   - [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
-  - [🔨制作物 - 試験管立て＋バイオくん](https://aaa.html)
+  - [🔨制作物 - 試験管立て＋バイオくん](https://aaa.html)
 - [week1](../yohei/week1.html)
   - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
   - [🔨制作物 - 試験管立て（プロト）](https://aaa.html)
