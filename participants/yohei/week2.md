@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Memo
 ### ■ Video / week2-Thu (2018/02/08)
 - [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
