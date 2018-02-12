@@ -16,6 +16,10 @@ tags:
 - history
   - history continues from 1986...
 - reference : [glowing plants(kickstarter)](https://www.kickstarter.com/projects/antonyevans/glowing-plants-natural-lighting-with-no-electricit)
+- "luciferin(ルシフェリン)" and "luminescence(ルミネセンス)"
+  - luciferin : 生物発光の源。
+    - あああ
+  - luminescence : 蛍光
 
 <img src="/images/glowing_plants.jpg" width="500px">
 <img src="/images/glowing_plants_2.jpg" width="500px">
