@@ -17,8 +17,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 - [open source project](https://www.hackteria.org/wiki/Collection_of_DIY_Biology,_Open_Source_Art_Projects)
 - [講義の全体像（作る機器やpdfなど）](http://biohackacademy.github.io/bha5/classes/)
 - [昨年度の作品](https://github.com/BioClub/lab/wiki/bha4)
-<br><br><br>
-
+<br><br>
 
 ## Memo
 - [week2](week2.md)
