@@ -3,13 +3,13 @@ layout: default
 ---
 
 # _Yohei Inokuchi_
-<img style="width : 550px; height : 250px;" src="image/profile_4.png"><br>
+<img style="width : 550px; height : 250px;" src="image/profile_bio.png"><br>
 Motivation : I'm interested in <span style="color: red;">new physical experience</span> using bio technology.
 
 ## To clear Thinking
 - keyword : 可視化 / bio glowing / bio printing(soft robotics)
 - person : オロン・カッツ
-- favorite project : Biopresence / 
+- favorite project : Biopresence /
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
@@ -38,7 +38,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
     - いろんな色を作れる
   - Photobacterium phospherium    // 発行バクテリア
   - [Bioluminescent](http://biohackacademy.github.io/biofactory/class/1-incubator/bioluminescent-bacteria-isolation/) //生物発光   - 抵抗を入れる理由：抵抗を入れないと、エネルギーが熱に変わる。
-  
+
 ### ■ Work / week1-Sat (2018/02/03)
 - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
 - keyword
@@ -66,5 +66,3 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
   - bio hack : create mysterious things !!
 <br>
 <img src="image/what_is_bio_hacking.jpg" width="500px">
-
-
