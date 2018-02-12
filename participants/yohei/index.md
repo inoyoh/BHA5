@@ -5,11 +5,13 @@ layout: default
 # _Yohei Inokuchi_
 <img style="width : 550px; height : 250px;" src="image/profile_bio.png"><br>
 Motivation : I'm interested in <span style="color: red;">new physical experience</span> using bio technology.
+<br>
 
 ## To clear Thinking
 - keyword : 可視化 / bio glowing / bio printing(soft robotics)
 - person : オロン・カッツ
 - favorite project : Biopresence /
+<br>
 
 ## URL List
 - [about Markdown](https://github.com/BioClub/Practice-Repository/blob/master/Reference.md)
@@ -17,7 +19,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 - [open source project](https://www.hackteria.org/wiki/Collection_of_DIY_Biology,_Open_Source_Art_Projects)
 - [講義の全体像（作る機器やpdfなど）](http://biohackacademy.github.io/bha5/classes/)
 - [昨年度の作品](https://github.com/BioClub/lab/wiki/bha4)
-
+<br>
 
 ## Memo
 - [week2 (Memo)](../yohei/week2.html)
