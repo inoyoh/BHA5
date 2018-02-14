@@ -22,6 +22,7 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 <br><br>
 
 ## Memo
+- [week3 (Memo)](../yohei/week3.html)
 - [week2 (Memo)](../yohei/week2.html)
   - [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
   - [🔨Product - test tube(+bio-kun)](https://aaa.html)
