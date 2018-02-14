@@ -30,6 +30,6 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 - [week1 (Memo)](../yohei/week1.html)
   - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
   - [🔨Product - test tube（prototype）](https://aaa.html)
-  - [🔨Product - クリーンベンチ](https://aaa.html)
+  - [🔨Product - clean bench](https://aaa.html)
 <br>
 <br>
