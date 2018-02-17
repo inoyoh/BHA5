@@ -17,9 +17,9 @@ layout: default
     <th>01</th>
   </tr>
   <tr>
-    <th>01</th>
-    <th>01</th>
-    <th>01</th>
+    <td>01</td>
+    <td>02</td>
+    <td>01</td>
   </tr>
 </table>
 
