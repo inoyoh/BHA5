@@ -15,7 +15,7 @@ layout: default
     <td>05</td>
     <td>agar of my bacteria and slime mold</td>
     <td>2/12</td>
-    <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
+    <td><img src="image/agar.JPG" width="500px"></td>
   </tr>
   <tr>
     <td>04</td>
