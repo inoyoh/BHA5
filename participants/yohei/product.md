@@ -43,6 +43,12 @@ layout: default
   </tr>
 </table>
 
+<!-- 
+・表の作り方参考URL
+- [Markdown記法 チートシート](https://gist.github.com/mignonstyle/083c9e1651d7734f84c99b8cf49d57fa)
+- [テーブルの枠線いろいろ border 、cellspacing 、cellpadding](http://mbsupport.dip.jp/hp/hpt16.htm)
+-->
+
 
 <!-- 参考
 
