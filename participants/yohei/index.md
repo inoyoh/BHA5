@@ -23,15 +23,15 @@ Motivation : I'm interested in <span style="color: red;">new physical experience
 
 ## Memo
 - week3(×)
-  - [memo](../yohei/memo.html#week3)
+  - [✍️Memo / week3](../yohei/memo.html#week3)
 - week2(Sat)
-  - [memo](../yohei/memo.html#week2)
-  - [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
+  - [✍️Memo / week2](../yohei/memo.html#week2)
+  - [🖥Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
   - [🔨Product - test tube(+bio-kun)](../yohei/product.html)
   - [🔨Product - agar plates(寒天培地)](../yohei/product.html)
 - week1(Sat)
-  - [memo / week1](../yohei/memo.html#week1)
-  - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
+  - [✍️Memo / week1](../yohei/memo.html#week1)
+  - [🖥Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
   - [🔨Product - test tube（prototype）](../yohei/product.html)
   - [🔨Product - clean bench](../yohei/product.html)
 <br>
