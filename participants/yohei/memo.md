@@ -2,7 +2,8 @@
 layout: default
 ---
 
-## Memo
+# Memo
+## week2
 ### ■ Work / week2-Sat (2018/02/10)
 
 
@@ -24,6 +25,7 @@ layout: default
   - Photobacterium phospherium    // 発行バクテリア
   - [Bioluminescent](http://biohackacademy.github.io/biofactory/class/1-incubator/bioluminescent-bacteria-isolation/) //生物発光   - 抵抗を入れる理由：抵抗を入れないと、エネルギーが熱に変わる。
 
+## week1
 
 ### ■ Work / week1-Sat (2018/02/03)
 - [✍️Video Post - glowing plants](http://bha5.bioclub.org/general/2018/02/03/glowing_plants.html)
