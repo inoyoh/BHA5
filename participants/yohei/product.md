@@ -10,7 +10,7 @@ layout: default
 |01|test tube|2/12|<img src="image/test_tube_stand.JPG" width="500px">|
 |01|test tube|2/12|<img src="image/test_tube_stand.JPG" width="500px">|
 
-<table>
+<table border="1px">
   <tr>
     <th>01</th>
     <th>01</th>
