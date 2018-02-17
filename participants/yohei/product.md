@@ -21,7 +21,7 @@ layout: default
     <td>04</td>
     <td>bio-kun</td>
     <td>2/12</td>
-    <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
+    <td><img src="image/bio-kun.JPG" width="500px"></td>
   </tr>
   <tr>
     <td>03</td>
