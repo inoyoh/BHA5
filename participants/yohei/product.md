@@ -4,7 +4,7 @@ layout: default
 
 
 
-<table  border="1" cellspacing="0" cellpadding="5" bordercolor="#000000" style="border-collapse: collapse">
+<table  border="1" cellspacing="0" cellpadding="5" bordercolor="#dfdfdf" style="border-collapse: collapse">
   <tr>
     <th>number</th>
     <th>name</th>
