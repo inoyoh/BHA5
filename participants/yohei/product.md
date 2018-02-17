@@ -12,20 +12,32 @@ layout: default
     <th>image</th>
   </tr>
   <tr>
-    <td>02</td>
+    <td>05</td>
+    <td>agar of my bacteria and slime mold</td>
+    <td>2/12</td>
+    <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
+  </tr>
+  <tr>
+    <td>04</td>
+    <td>bio-kun</td>
+    <td>2/12</td>
+    <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
+  </tr>
+  <tr>
+    <td>03</td>
     <td>test tube 02</td>
     <td>2/12</td>
     <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
   </tr>
   <tr>
-    <td>01</td>
-    <td>test tube</td>
+    <td>02</td>
+    <td>test tube 01</td>
     <td>2/12</td>
     <td><img src="image/test_tube_stand.JPG" width="500px"></td>
   </tr>
   <tr>
     <td>01</td>
-    <td>test tube</td>
+    <td>clean bench</td>
     <td>2/12</td>
     <td><img src="image/clean_bench.JPG" width="500px"></td>
   </tr>
