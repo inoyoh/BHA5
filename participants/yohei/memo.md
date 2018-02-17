@@ -5,7 +5,9 @@ layout: default
 # Memo
 ## week2
 ### ■ Work / week2-Sat (2018/02/10)
-
+- やったこと
+  - バイオの読書（かしこい単細胞 粘菌 / 中垣俊之）
+  - agar(寒天培地)の制作＋自分のバクテリアを乗っける
 
 ### ■ Video / week2-Thu (2018/02/08)
 - [✍️Video Post - definition of death](http://bha5.bioclub.org/general/2018/02/10/definition_of_death.html)
