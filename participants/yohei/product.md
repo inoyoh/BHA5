@@ -23,7 +23,14 @@ layout: default
     <td>2/12</td>
     <td><img src="image/test_tube_stand.JPG" width="500px"></td>
   </tr>
+  <tr>
+    <td>01</td>
+    <td>test tube</td>
+    <td>2/12</td>
+    <td><img src="image/clean_bench.JPG" width="500px"></td>
+  </tr>
 </table>
+
 
 <!-- 参考
 
