@@ -11,6 +11,9 @@ layout: default
 |01|test tube|2/12|<img src="image/test_tube_stand.JPG" width="500px">|
 
 
+|Title|Type|Description|
+|:---|:---|:---|
+|table|string|テーブルを表示したい|
 
 <!-- 参考
 
