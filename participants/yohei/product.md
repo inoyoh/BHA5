@@ -8,8 +8,8 @@ layout: default
   <tr>
     <th>list</th>
     <th>name</th>
-    <th width="500px">date</th>
-    <th>image</th>
+    <th>date</th>
+    <th width="500px">image</th>
   </tr>
   <tr>
     <td>05</td>
