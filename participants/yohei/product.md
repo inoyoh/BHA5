@@ -12,10 +12,10 @@ layout: default
     <th>image</th>
   </tr>
   <tr>
-    <td>01</td>
-    <td>test tube</td>
+    <td>02</td>
+    <td>test tube 02</td>
     <td>2/12</td>
-    <td><img src="image/test_tube_stand.JPG" width="500px"></td>
+    <td><img src="image/test_tube_stand_02.JPG" width="500px"></td>
   </tr>
   <tr>
     <td>01</td>
