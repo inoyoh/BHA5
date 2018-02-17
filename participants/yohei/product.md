@@ -6,7 +6,7 @@ layout: default
 
 <table  border="1" cellspacing="0" cellpadding="5" bordercolor="#dfdfdf" style="border-collapse: collapse">
   <tr>
-    <th>number</th>
+    <th></th>
     <th>name</th>
     <th>date</th>
     <th>image</th>
