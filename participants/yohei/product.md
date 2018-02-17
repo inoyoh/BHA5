@@ -13,7 +13,7 @@ layout: default
   </tr>
   <tr>
     <td>05</td>
-    <td>agar of my bacteria and slime mold</td>
+    <td>agar of my bacteria<br> and slime mold</td>
     <td>2/10</td>
     <td><img src="image/agar.JPG" width="500px"></td>
   </tr>
