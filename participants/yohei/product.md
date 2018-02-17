@@ -8,7 +8,7 @@ layout: default
   <tr>
     <th>list</th>
     <th>name</th>
-    <th>date</th>
+    <th width="500px">date</th>
     <th>image</th>
   </tr>
   <tr>
