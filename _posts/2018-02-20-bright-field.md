@@ -12,3 +12,7 @@ tags:
 - I'll show some beatiful designs that you can find in the nature 
 
 ![slide](/participants/jun/image/bio.png) 
+
+## voronoi
+![slide](/participants/jun/image/voronoi.png) 
+
