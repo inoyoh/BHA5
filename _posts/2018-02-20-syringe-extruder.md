@@ -9,6 +9,6 @@ tags: schedule homework
 
 [Image of Syringe Extruder]
 
-![Image of BHA5 Schedule](/images/syringe extruder.png)
+![Image of Syringe Extruder](/images/syringe%20extruder.png)
 
 Had been thinking about sourdough printing with syringe and heating element
