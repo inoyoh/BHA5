@@ -14,12 +14,10 @@ layout: default
       {% if page.tags != empty %}
         <div class='tags'>
           Tags: 
-          <span>
-            {% for tag in page.tags %}
-              {% capture tag_name %}{{ tag }}{% endcapture %}
-              <a href="/tag/{{ tag_name }}"><code><nobr>{{ tag_name }}</nobr></code></a>&nbsp;
-            {% endfor %}
-          </span>
+          {% for tag in page.tags %}
+            {% capture tag_name %}{{ tag }}{% endcapture %}
+            <a href="/tag/{{ tag_name }}">{{ tag_name }}</a>&nbsp;
+          {% endfor %}
         </div>
       {% endif %}
     </p>
