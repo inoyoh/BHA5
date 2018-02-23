@@ -9,7 +9,7 @@ layout: default
     <h1 class="post-title">{{ page.title }}</h1>
     <p class="post-meta">{{ page.date | date: "%b %-d, %Y" }}
       {% if page.author %}
-      Author: {{ author.display_name }}
+      by <a href='{{site.url}}/participants/{{page.author}}/'>{{ author.display_name }}</a>
       {% endif %}
       {% if page.tags != empty %}
         <div class='tags'>
