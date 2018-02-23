@@ -10,10 +10,9 @@ layout: default
     
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        {% if post.author %}<a href='{{site.url}}/participants/{{page.author}}/'>{{ author.display_name }}</a>{% endif %}
+        
         <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        {% if post.author %}
-        Author: {{ author.display_name }}
-        {% endif %}
         {% if post.tags != empty %}
           <div class='post-meta'>
             Tags: 
