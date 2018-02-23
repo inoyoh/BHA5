@@ -3,7 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  <h1 class="page-heading">Latest Posts:</h1>
+  <h1 class="page-heading">Latest Posts: </h1>
   <ul class="post-list">
     {% for post in site.posts %}
     {% assign author = site.data.authors[post.author] %}
