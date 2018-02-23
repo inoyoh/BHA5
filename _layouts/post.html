@@ -11,11 +11,11 @@ layout: default
       {% if page.author %}
       Author: {{ author.display_name }}
       {% endif %}
-      {% if page.tags %}
-        <div class='tags'>TTT
+      {% if page.tags != blank %}
+        <div class='tags'>
           Tags: 
         {% for tag in page.tags %}
-          <span>{{ tag }}</span>X
+          <span>{{ tag }}</span>
         {% endfor %}
         </div>
       {% endif %}
