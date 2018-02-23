@@ -4,7 +4,7 @@ title:  "What is BioHacking? Mindmap for BHA5 Japan"
 author: georg
 date:   2018-02-01 15:00:34
 categories: general
-tags: introduction biohacking
+tags:
 ---
 
 [Image of BioHacking Mindmap]
