@@ -22,6 +22,18 @@ layout: default
             </div>
         {% endif %}
         
+        {% if post.tags != empty %}
+          <div class='tags'>
+            Tags: 
+            <span>
+              {% for tag in post.tags %}
+                <a href="/tag/{{ tag }}"><code class="highligher-rouge"><nobr>{{ tag }}</nobr></code>&nbsp;</a>
+              {% endfor %}
+            </span>
+          </div>
+        {% endif %}
+        
+        
       </li>
     {% endfor %}
   </ul>
