@@ -4,7 +4,7 @@ username: georg
 # Name that should be displayed
 display_name: Georg Tremmel
 
-facebook: ""
-twitter: ""
-github: ""
-website: ""
+facebook: "https://www.facebook.com/trembl"
+twitter: "https://twitter.com/trembl"
+github: "https://github.com/trembl"
+website: "http://www.bcl.io"
