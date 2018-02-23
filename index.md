@@ -14,7 +14,7 @@ layout: default
         {% if post.author %}
         Author: {{ author.display_name }}
         {% endif %}
-        {% if post.tags %}
+        {% if post.tags != blank %}
           <div class='post-meta'>
             Tags: 
               {% for tag in post.tags %}
