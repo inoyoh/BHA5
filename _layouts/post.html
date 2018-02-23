@@ -11,7 +11,7 @@ layout: default
       {% if page.author %}
       Author: {{ author.display_name }}
       {% endif %}
-      {% if page.tags != blank %}
+      {% if page.tags != empty %}
         <div class='tags'>
           Tags: 
         {% for tag in page.tags %}
