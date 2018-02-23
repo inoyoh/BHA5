@@ -1,4 +1,4 @@
-# Must be same as participants/username
+color: "#0000ff"# Must be same as participants/username
 username: kazuhide
 
 # Name that should be displayed
@@ -8,3 +8,4 @@ facebook: ""
 twitter: ""
 github: ""
 website: ""
+color: "#0000ff"
